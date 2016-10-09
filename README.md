@@ -5,5 +5,7 @@ Download the MyoDuino: https://market.myo.com/app/54bd7403e4b00db53ad527a2/myodu
 
 Download the Arduino IDE: https://www.arduino.cc/en/Main/Software
 
+Get track of the MyoConnection with MyoDiagnostics: http://diagnostics.myo.com/
+
 Contributor: Dan, Josh, Hoang, Erik.
 Date released: Oct 9th 2016 at HackUmass.
