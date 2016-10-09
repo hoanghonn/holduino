@@ -1,4 +1,4 @@
-holduino
+
 The project combined the Arduino Uno and Myo Armband to create a hand with electromyographic controller. 
 
 Download the MyoDuino: https://market.myo.com/app/54bd7403e4b00db53ad527a2/myoduino-
