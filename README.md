@@ -1,6 +1,3 @@
-TODO: adding the .ino file for arduino
-TODO: adding fritzing
-TODO: putting folder called MyoConnect into holduino/libraries, so that users can correctly install the libraries
 
 #Holduino
 
