@@ -1,5 +1,5 @@
 
-#Holduino
+# holduino :clubs:
 
 We wanted to make a prosthetic out of a luxury electronic. The Myo is well suited to working alongside arduino, it turns out, given the right library.
 
